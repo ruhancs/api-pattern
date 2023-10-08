@@ -3,6 +3,7 @@ module github.com/ruhancs/api-pattern
 go 1.21.1
 
 require (
+	github.com/go-chi/chi/v5 v5.0.10
 	github.com/go-chi/jwtauth v1.2.0
 	github.com/spf13/viper v1.17.0
 	github.com/stretchr/testify v1.8.4

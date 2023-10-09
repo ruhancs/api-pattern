@@ -1,7 +1,5 @@
 package handler
 
-// eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTY4NjQxNTMsInN1YiI6IjM0ZGVkODVlLTg3NGQtNDFhNi04YmZmLWRjYjYwMzAzY2EyYiJ9.MMQyYrd7ewj5fDlpkU3kLDzS3cX9YcMEcobxypeIoZc
-
 import (
 	"encoding/json"
 	"net/http"
